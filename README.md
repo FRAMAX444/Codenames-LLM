@@ -1,6 +1,9 @@
 ![Repository banner](media/codenames_banner.jpg)
 # 🧠🤖 LLM Codenames Showdown
 
+This repository is the product of the combined effort of me and @mich1803 
+Go check him out!
+
 Welcome to the **LLM Codenames Showdown**! This project brings together some of the most advanced Large Language Models (LLMs) to form AI teams and compete in the popular game Codenames.
 
 ## Overview
